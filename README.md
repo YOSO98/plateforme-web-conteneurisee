@@ -42,6 +42,7 @@ plateforme-web-conteneurisee
 └── docs
     ├── 01-application-web.md
     └── 02-docker-and-compose.md
+---
 
 ## 🚀 Déploiement rapide
 ```bash
@@ -50,30 +51,33 @@ docker compose up -d
 Accès à l’application :
 http://localhost:5000
 
-##📘 Documentation
+---
+
+
+## 📘 Documentation
 La documentation détaillée du projet est disponible
 dans le dossier docs/ :
-
 01 : Application web (Flask)
-
 02 : Docker & Docker Compose
 
-##🧪 Tests et validation
+---
+
+## 🧪 Tests et validation
 L’application a été testée :
-
 en local (Flask)
-
 via Docker
-
 via Docker Compose
-
 Les logs applicatifs sont accessibles
 via Docker et Docker Compose.
 
-##🎓 Contexte académique
+---
+
+## 🎓 Contexte académique
 Projet réalisé dans le cadre d’une montée
 en compétences Cloud/DevOps
 
-##👤 Auteur
+---
+
+## 👤 Auteur
 Youssouf Souleyman
 GitHub : https://github.com/YOSO98
