@@ -1,4 +1,4 @@
-# Plateforme Web Conteneurisée (Docker & Cloud)
+# Plateforme Web Conteneurisée (Docker et Cloud)
 
 ## 🎯 Objectif du projet
 Déployer une application web conteneurisée
@@ -42,6 +42,7 @@ plateforme-web-conteneurisee
 └── docs
     ├── 01-application-web.md
     └── 02-docker-and-compose.md
+
 ---
 
 ## 🚀 Déploiement rapide
