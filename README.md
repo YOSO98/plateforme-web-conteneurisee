@@ -30,6 +30,7 @@ bonnes pratiques DevOps.
 
 ---
 
+```md
 ## 📂 Structure du projet
 ```text
 plateforme-web-conteneurisee
@@ -45,7 +46,6 @@ plateforme-web-conteneurisee
 
 ---
 
-## 🚀 Déploiement rapide
 ```bash
 docker build -t plateforme-web:1.0 .
 docker compose up -d
